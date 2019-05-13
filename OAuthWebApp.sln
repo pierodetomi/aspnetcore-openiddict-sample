@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthWebApp", "OAuthWebApp\OAuthWebApp.csproj", "{956BC95E-BC73-4629-9740-6CCB854CEA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956BC95E-BC73-4629-9740-6CCB854CEA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956BC95E-BC73-4629-9740-6CCB854CEA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956BC95E-BC73-4629-9740-6CCB854CEA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956BC95E-BC73-4629-9740-6CCB854CEA03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7D0F69-838F-4187-9E88-BD649DE5BFA9}
+	EndGlobalSection
+EndGlobal
